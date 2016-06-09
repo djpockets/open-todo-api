@@ -2,7 +2,7 @@
 
 API for a to-do list application, so that users can authenticate and manage their information externally.
 
-This app powers Open Todo APi located [here](Heroku Project URL)
+This app powers Open Todo APi located https://om-todo-api.herokuapp.com/
 
 ## Getting Started
 
