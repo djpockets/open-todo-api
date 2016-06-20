@@ -4,8 +4,6 @@ gem 'rails',                    '4.2.6'
 
 gem 'bootstrap-sass',           '~> 3.3.4.1'
 
-gem 'bootstrap'
-
 gem 'coffee-rails',             '~> 4.1.1'
 
 gem 'devise',                   '~> 3.4.1'
@@ -19,7 +17,7 @@ gem 'pundit',                   '~> 1.1.0'
 
 gem 'rack',                     '~> 1.6.4'
 gem 'rack-cors',                '~> 0.4.0', :require => 'rack/cors'
-gem 'rake',                     '~> 11.1.2'
+gem 'rake',                     '~> 11.2.2'
 
 gem 'sass-rails',               '~> 5.0.4'
 
